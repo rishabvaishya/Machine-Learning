@@ -1,6 +1,5 @@
 # Machine-Learning
-Course CSE 7343
-
+Course CSE 7343 - Southern Methodist University
 
 Welcome !!!!
 
